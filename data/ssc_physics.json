@@ -1,0 +1,15 @@
+{
+  "subject": "SSC Physics",
+  "chapters": [
+    {
+      "id": 1,
+      "name": "Introduction to Physics",
+      "topics": []
+    },
+    {
+      "id": 2,
+      "name": "Motion and Force",
+      "topics": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "exam": "BUET Admission",
+  "sections": [
+    {
+      "id": 1,
+      "name": "Mathematics",
+      "topics": []
+    },
+    {
+      "id": 2,
+      "name": "Physics",
+      "topics": []
+    }
+  ]
+}
